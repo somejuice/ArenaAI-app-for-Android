@@ -47,7 +47,7 @@ ArenaAI 将相关网页服务封装为便于移动设备使用的 Android 客户
 
 ### 无法覆盖安装
 
-此构建使用独立的发布证书签名。如果设备中已安装使用其他证书签名的同包名应用，Android 会拒绝覆盖安装。
+部分构建使用独立的发布证书签名。如果设备中已安装使用其他证书签名的同包名应用，Android 会拒绝覆盖安装。
 
 请先备份必要数据，再卸载旧版本后安装。**卸载应用通常会清除其本地设置、Cookie、登录状态及其他应用数据。**
 
@@ -64,20 +64,6 @@ ArenaAI 将相关网页服务封装为便于移动设备使用的 Android 客户
 ```text
 13cd99021b12a075cec3be33f1dc0187c44d006d3772b2ef682c52d3727c40cb
 ```
-
-Linux、macOS：
-
-```bash
-shasum -a 256 ArenaAI-1.6.0-release-modified.apk
-```
-
-Windows PowerShell：
-
-```powershell
-Get-FileHash .\ArenaAI-1.6.0-release-modified.apk -Algorithm SHA256
-```
-
-请确认计算结果与上方 APK 校验值一致。
 
 ## 权限说明
 

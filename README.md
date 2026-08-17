@@ -30,8 +30,8 @@ ArenaAI 将相关网页服务封装为便于移动设备使用的 Android 客户
 | 项目 | 值 |
 |---|---|
 | 应用名称 | ArenaAI |
-| 版本名称 | `1.6.0-release` |
-| 版本代码 | `18` |
+| 版本名称 | `1.7.0--Preview` |
+| 版本代码 | `25` |
 | 最低 Android 版本 | Android 7.0（API 24） |
 | 目标 API | 34 |
 | 政策版本 | `1.0` |
@@ -40,7 +40,7 @@ ArenaAI 将相关网页服务封装为便于移动设备使用的 Android 客户
 ## 下载与安装
 
 1. 前往仓库的 [Releases](../../releases) 页面。
-2. 下载 `ArenaAI-1.6.0-release-modified.apk`。
+2. 下载 `ArenaAI-1.7.0-preview-native-M3 (1).apk`。
 3. 在 Android 系统中允许所用浏览器或文件管理器“安装未知应用”。
 4. 打开 APK 并按照系统提示完成安装。
 5. 首次启动时阅读隐私政策，勾选确认后点击“同意并继续”。
@@ -56,7 +56,7 @@ ArenaAI 将相关网页服务封装为便于移动设备使用的 Android 客户
 发布 APK 的 SHA-256：
 
 ```text
-11af233c3c1544fbaa45db4ccce256333a8bc991b30bf95d578c5a3b476a12aa
+14bbc99adbd6b17a1a50b543b606a4347603ac0d8800fd099be3f03d7bf308d6
 ```
 
 发布证书 SHA-256 指纹：

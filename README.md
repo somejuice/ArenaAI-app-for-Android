@@ -2,7 +2,7 @@
 
 > 非官方、独立维护的 ArenaAI 第三方 Android 客户端。
 
-![Version](https://img.shields.io/badge/version-1.6.0--release-315BD2)
+![Version](https://img.shields.io/badge/version-1.7.0--release-315BD2)
 ![Android](https://img.shields.io/badge/Android-7.0%2B-3DDC84)
 ![Languages](https://img.shields.io/badge/languages-中文%20%7C%20English%20%7C%20日本語-6E7781)
 
